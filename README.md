@@ -2,6 +2,7 @@
 | Zadatak        | Link       | Radio       | 
 | ------------- |:-------------:|:-------------:|
 | A1      | [4EIT-A1](https://github.com/mikikupus/4EIT-A1)|Marin|
+| A2      | [4EIT-A2](https://github.com/mikikupus/4EIT-A2)|AcaN95|
 | A4      | [4EIT-A4](https://github.com/mikikupus/4EIT-A4)|Lazar|
 | A4      | [4EIT-A4-2](https://github.com/mikikupus/4EIT-A4-2)|AcaN95|
 | A5      | [4EIT-A5](https://github.com/mikikupus/4EIT-A5)|Filip|
