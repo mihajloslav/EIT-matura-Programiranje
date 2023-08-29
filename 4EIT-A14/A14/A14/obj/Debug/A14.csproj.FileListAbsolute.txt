@@ -1,0 +1,24 @@
+E:\Visual za skolu\C#\A14\A14\bin\Debug\A14.exe.config
+E:\Visual za skolu\C#\A14\A14\bin\Debug\A14.exe
+E:\Visual za skolu\C#\A14\A14\bin\Debug\A14.pdb
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.csproj.AssemblyReference.cache
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.csproj.SuggestedBindingRedirects.cache
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.Form1.resources
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.Properties.Resources.resources
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.csproj.GenerateResource.cache
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.csproj.CoreCompileInputs.cache
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.exe
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.pdb
+E:\Visual za skolu\C#\A14\A14\obj\Debug\A14.Grafikon.resources
+C:\Users\aleks\Downloads\A14\A14\A14\bin\Debug\A14.exe.config
+C:\Users\aleks\Downloads\A14\A14\A14\bin\Debug\A14.exe
+C:\Users\aleks\Downloads\A14\A14\A14\bin\Debug\A14.pdb
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.csproj.AssemblyReference.cache
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.Form1.resources
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.Grafikon.resources
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.Properties.Resources.resources
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.csproj.GenerateResource.cache
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.exe
+C:\Users\aleks\Downloads\A14\A14\A14\obj\Debug\A14.pdb

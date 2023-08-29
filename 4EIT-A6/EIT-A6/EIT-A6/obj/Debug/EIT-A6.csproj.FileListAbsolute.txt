@@ -1,0 +1,10 @@
+D:\Maturski radovi\EIT-A6\EIT-A6\bin\Debug\EIT-A6.exe.config
+D:\Maturski radovi\EIT-A6\EIT-A6\bin\Debug\EIT-A6.exe
+D:\Maturski radovi\EIT-A6\EIT-A6\bin\Debug\EIT-A6.pdb
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT-A6.csproj.AssemblyReference.cache
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT_A6.Form1.resources
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT_A6.Properties.Resources.resources
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT-A6.csproj.GenerateResource.cache
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT-A6.csproj.CoreCompileInputs.cache
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT-A6.exe
+D:\Maturski radovi\EIT-A6\EIT-A6\obj\Debug\EIT-A6.pdb

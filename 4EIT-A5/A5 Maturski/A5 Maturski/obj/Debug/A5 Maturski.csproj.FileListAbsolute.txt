@@ -1,0 +1,12 @@
+D:\Programiranje\A5 Maturski\A5 Maturski\bin\Debug\A5 Maturski.exe.config
+D:\Programiranje\A5 Maturski\A5 Maturski\bin\Debug\A5 Maturski.exe
+D:\Programiranje\A5 Maturski\A5 Maturski\bin\Debug\A5 Maturski.pdb
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5 Maturski.csproj.AssemblyReference.cache
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5 Maturski.csproj.SuggestedBindingRedirects.cache
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5_Maturski.Form1.resources
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5_Maturski.Properties.Resources.resources
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5 Maturski.csproj.GenerateResource.cache
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5 Maturski.csproj.CoreCompileInputs.cache
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5 Maturski.exe
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5 Maturski.pdb
+D:\Programiranje\A5 Maturski\A5 Maturski\obj\Debug\A5_Maturski.Statistika.resources

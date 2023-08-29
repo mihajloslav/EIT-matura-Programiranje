@@ -1,0 +1,16 @@
+D:\Marin\4EIT-A1\4EIT-A1\bin\Debug\4EIT-A1.exe.config
+D:\Marin\4EIT-A1\4EIT-A1\bin\Debug\4EIT-A1.exe
+D:\Marin\4EIT-A1\4EIT-A1\bin\Debug\4EIT-A1.pdb
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\4EIT-A1.csprojAssemblyReference.cache
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\_4EIT_A1.Form1.resources
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\_4EIT_A1.Properties.Resources.resources
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\4EIT-A1.csproj.GenerateResource.cache
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\4EIT-A1.csproj.CoreCompileInputs.cache
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\4EIT-A1.exe
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\4EIT-A1.pdb
+D:\Marin\4EIT-A1\4EIT-A1\bin\Debug\Interop.AcroPDFLib.dll
+D:\Marin\4EIT-A1\4EIT-A1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\Interop.AcroPDFLib.dll
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\4EIT-A1.csproj.ResolveComReference.cache
+D:\Marin\4EIT-A1\4EIT-A1\obj\Debug\Interop.WBSVCLib.dll

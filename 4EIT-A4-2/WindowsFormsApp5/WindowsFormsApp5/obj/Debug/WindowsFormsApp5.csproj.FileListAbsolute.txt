@@ -1,0 +1,25 @@
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\mreze\Downloads\WindowsFormsApp5\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+E:\Programiranje 2022\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources

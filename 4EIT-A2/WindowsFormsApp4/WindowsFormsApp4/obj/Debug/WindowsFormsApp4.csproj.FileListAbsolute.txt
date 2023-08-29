@@ -1,0 +1,13 @@
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Autor.resources
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+E:\Programiranje 2022\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
